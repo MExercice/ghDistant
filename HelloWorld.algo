@@ -2,7 +2,7 @@ Algo HelloWorld {
  fonction principale {
 // Utilisation des constantes de Constantes
  Créer une fenetre de titre HELLO_WORLD
-Mettre la dimension à 200, 200
+Mettre la dimension à 100, 100
 Configurer la fenetre sur ‘exitOnClose’
 // Création du label de texte
 Créer un label avec du texte centré et contenant le texte HELLO_WORLD
